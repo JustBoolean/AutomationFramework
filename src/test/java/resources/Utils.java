@@ -2,6 +2,7 @@ package resources;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.PrintStream;
 import java.util.Properties;
 
@@ -29,10 +30,18 @@ public class Utils {
 		return reqSpec;
 	}
 	public static String getGlobalValue(String key) throws IOException {
-		System.out.println(key);
-		Properties p = new Properties();
-		p.load(Utils.class.getResourceAsStream("global.properties"));
-		return p.getProperty(key);
+		Properties prop = new Properties();
+		prop.load(Utils.class.getResourceAsStream("global.properties"));
+		return prop.getProperty(key);
+		/*
+		 * System.out.println("Key " + key); Properties p = new Properties(); Thread
+		 * currentThread = Thread.currentThread(); ClassLoader contextClassLoader =
+		 * currentThread.getContextClassLoader(); InputStream propertiesStream =
+		 * contextClassLoader.getResourceAsStream("global.properties");
+		 * System.out.println("Properites Stream: " + propertiesStream.toString());
+		 * p.load(propertiesStream); System.out.println("Get Property " +
+		 * p.getProperty(key)); return p.getProperty(key);
+		 */
 	}
 	
 	public String getJsonPath(Response response, String key) {
