@@ -16,7 +16,7 @@ Vary: Origin
 Vary: X-Origin
 Vary: Referer
 Content-Encoding: gzip
-Date: Wed, 14 Jul 2021 03:42:44 GMT
+Date: Wed, 14 Jul 2021 03:53:24 GMT
 Server: ESF
 Cache-Control: private
 X-XSS-Protection: 0
@@ -27,12 +27,12 @@ Transfer-Encoding: chunked
 
 {
     "kind": "books#volumes",
-    "totalItems": 2368,
+    "totalItems": 2374,
     "items": [
         {
             "kind": "books#volume",
             "id": "KtrATnRZOlMC",
-            "etag": "mMhIVycCYJY",
+            "etag": "Nv+hKk716hI",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/KtrATnRZOlMC",
             "volumeInfo": {
                 "title": "Start Quilting",
@@ -106,7 +106,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "uz9nuQEACAAJ",
-            "etag": "bE2r1fccBrw",
+            "etag": "Uxf0PySeS+M",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/uz9nuQEACAAJ",
             "volumeInfo": {
                 "title": "Fresh Quilting",
@@ -182,7 +182,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "LQ0oDwAAQBAJ",
-            "etag": "gAvDFov2J2I",
+            "etag": "wT22O9HQbiU",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/LQ0oDwAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Make My First Quilt",
@@ -281,7 +281,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "s4UdKQEACAAJ",
-            "etag": "mQH92nRkEys",
+            "etag": "hfm08HjmvDI",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/s4UdKQEACAAJ",
             "volumeInfo": {
                 "title": "Utility Quilting",
@@ -355,7 +355,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "D5hQDEPeuwoC",
-            "etag": "CreQFxlwNfw",
+            "etag": "Psu/Hre6Et8",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/D5hQDEPeuwoC",
             "volumeInfo": {
                 "title": "Beginner’s Guide to Free-Motion Quilting",
@@ -454,7 +454,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "BUfvDQAAQBAJ",
-            "etag": "zphCI9zGn1Y",
+            "etag": "hhJIA6HN0g8",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/BUfvDQAAQBAJ",
             "volumeInfo": {
                 "title": "No Scrap Left Behind",
@@ -552,7 +552,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "4CFjDwAAQBAJ",
-            "etag": "0lSlF1afAv4",
+            "etag": "4+1ut/PRHcQ",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/4CFjDwAAQBAJ",
             "volumeInfo": {
                 "title": "Quilting Modern",
@@ -653,7 +653,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "ouxXXwAACAAJ",
-            "etag": "UtyBcS56Znw",
+            "etag": "soOPjglcqHM",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/ouxXXwAACAAJ",
             "volumeInfo": {
                 "title": "Country Cottage Quilting",
@@ -727,7 +727,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "xMT4sw3KU-AC",
-            "etag": "j6YZ3dOxiFs",
+            "etag": "ZINvWL5v05g",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/xMT4sw3KU-AC",
             "volumeInfo": {
                 "title": "Hawaiian Quilting",
@@ -804,7 +804,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "_TYdDQAAQBAJ",
-            "etag": "dnf1W0y/KL0",
+            "etag": "WghAYHnRJmk",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/_TYdDQAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Machine Quilt",
@@ -920,7 +920,7 @@ Vary: Origin
 Vary: X-Origin
 Vary: Referer
 Content-Encoding: gzip
-Date: Wed, 14 Jul 2021 03:42:45 GMT
+Date: Wed, 14 Jul 2021 03:53:25 GMT
 Server: ESF
 Cache-Control: private
 X-XSS-Protection: 0
@@ -931,12 +931,12 @@ Transfer-Encoding: chunked
 
 {
     "kind": "books#volumes",
-    "totalItems": 2428,
+    "totalItems": 2374,
     "items": [
         {
             "kind": "books#volume",
             "id": "KtrATnRZOlMC",
-            "etag": "JyEETUCFsNk",
+            "etag": "dYLClNDHzCg",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/KtrATnRZOlMC",
             "volumeInfo": {
                 "title": "Start Quilting",
@@ -1009,8 +1009,84 @@ Transfer-Encoding: chunked
         },
         {
             "kind": "books#volume",
+            "id": "uz9nuQEACAAJ",
+            "etag": "aVJ8Iynp7Jo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/uz9nuQEACAAJ",
+            "volumeInfo": {
+                "title": "Fresh Quilting",
+                "subtitle": "Fearless Color, Design, and Inspiration",
+                "authors": [
+                    "Malka Dubrawsky"
+                ],
+                "publisher": "Interweave",
+                "publishedDate": "2010-12-07",
+                "description": "Brighten up any room with fun, contemporary, and functional projects exploding with sensational color! Fresh Quilting presents 21 brilliant designs featuring quilt artist Malka Dubrawsky's intoxicating colors and unexpected palettes. Learn to create beautiful and lively pieces for you and your home--from modern quilts and fun pillows to flirty bags and scarves. In addition to clear directions and step-by-step illustrations for machine-sewn patchwork and quilted projects, Fresh Quilting includes a detailed section of techniques from basic piecing, cutting, and measuring methods to more advanced techniques such as inserting zippers into pillow backs and using bias binding to finish a quilt. Throughout Fresh Quilting, Malka will teach you how to adventurously and confidently mix colors and prints. You'll be inspired to infuse your own brilliant palettes into each project and discover just how irresistible and beautiful contemporary quilting can be!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1596682353"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781596682351"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 160,
+                "printType": "BOOK",
+                "categories": [
+                    "Crafts & Hobbies"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=uz9nuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=uz9nuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "un",
+                "previewLink": "http://books.google.com/books?id=uz9nuQEACAAJ&dq=quilting&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=uz9nuQEACAAJ&dq=quilting&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Fresh_Quilting.html?hl=&id=uz9nuQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=uz9nuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Brighten up any room with fun, contemporary, and functional projects exploding with sensational color! Fresh Quilting presents 21 brilliant designs featuring quilt artist Malka Dubrawsky&#39;s intoxicating colors and unexpected palettes."
+            }
+        },
+        {
+            "kind": "books#volume",
             "id": "LQ0oDwAAQBAJ",
-            "etag": "hCqep9B17Ng",
+            "etag": "AtC62125k3w",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/LQ0oDwAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Make My First Quilt",
@@ -1052,7 +1128,7 @@ Transfer-Encoding: chunked
                     "thumbnail": "http://books.google.com/books/content?id=LQ0oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "en",
-                "previewLink": "http://books.google.com/books?id=LQ0oDwAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=2&source=gbs_api",
+                "previewLink": "http://books.google.com/books?id=LQ0oDwAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=3&source=gbs_api",
                 "infoLink": "https://play.google.com/store/books/details?id=LQ0oDwAAQBAJ&source=gbs_api",
                 "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LQ0oDwAAQBAJ"
             },
@@ -1108,84 +1184,8 @@ Transfer-Encoding: chunked
         },
         {
             "kind": "books#volume",
-            "id": "uz9nuQEACAAJ",
-            "etag": "wibyIN37gG0",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/uz9nuQEACAAJ",
-            "volumeInfo": {
-                "title": "Fresh Quilting",
-                "subtitle": "Fearless Color, Design, and Inspiration",
-                "authors": [
-                    "Malka Dubrawsky"
-                ],
-                "publisher": "Interweave",
-                "publishedDate": "2010-12-07",
-                "description": "Brighten up any room with fun, contemporary, and functional projects exploding with sensational color! Fresh Quilting presents 21 brilliant designs featuring quilt artist Malka Dubrawsky's intoxicating colors and unexpected palettes. Learn to create beautiful and lively pieces for you and your home--from modern quilts and fun pillows to flirty bags and scarves. In addition to clear directions and step-by-step illustrations for machine-sewn patchwork and quilted projects, Fresh Quilting includes a detailed section of techniques from basic piecing, cutting, and measuring methods to more advanced techniques such as inserting zippers into pillow backs and using bias binding to finish a quilt. Throughout Fresh Quilting, Malka will teach you how to adventurously and confidently mix colors and prints. You'll be inspired to infuse your own brilliant palettes into each project and discover just how irresistible and beautiful contemporary quilting can be!",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "1596682353"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9781596682351"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 160,
-                "printType": "BOOK",
-                "categories": [
-                    "Crafts & Hobbies"
-                ],
-                "averageRating": 4,
-                "ratingsCount": 1,
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=uz9nuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=uz9nuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "un",
-                "previewLink": "http://books.google.com/books?id=uz9nuQEACAAJ&dq=quilting&hl=&cd=3&source=gbs_api",
-                "infoLink": "http://books.google.com/books?id=uz9nuQEACAAJ&dq=quilting&hl=&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Fresh_Quilting.html?hl=&id=uz9nuQEACAAJ"
-            },
-            "saleInfo": {
-                "country": "US",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "US",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=uz9nuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "Brighten up any room with fun, contemporary, and functional projects exploding with sensational color! Fresh Quilting presents 21 brilliant designs featuring quilt artist Malka Dubrawsky&#39;s intoxicating colors and unexpected palettes."
-            }
-        },
-        {
-            "kind": "books#volume",
             "id": "s4UdKQEACAAJ",
-            "etag": "ihqVYICMbZY",
+            "etag": "SBO3Y9O7KTw",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/s4UdKQEACAAJ",
             "volumeInfo": {
                 "title": "Utility Quilting",
@@ -1259,7 +1259,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "D5hQDEPeuwoC",
-            "etag": "tR20kPbsbX4",
+            "etag": "xppUPnu0610",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/D5hQDEPeuwoC",
             "volumeInfo": {
                 "title": "Beginner’s Guide to Free-Motion Quilting",
@@ -1357,109 +1357,8 @@ Transfer-Encoding: chunked
         },
         {
             "kind": "books#volume",
-            "id": "4CFjDwAAQBAJ",
-            "etag": "Z2JjV5n/qA0",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/4CFjDwAAQBAJ",
-            "volumeInfo": {
-                "title": "Quilting Modern",
-                "subtitle": "Techniques and Projects for Improvisational Quilts",
-                "authors": [
-                    "Jacquie Gering",
-                    "Katie Pedersen"
-                ],
-                "publisher": "Penguin",
-                "publishedDate": "2013-08-14",
-                "description": "From two pioneers of today's modern quilting movement, Quilting Modern teaches quilters how to use improvisational techniques to make graphic, contemporary quilts and quilted projects. Explore seven core techniques and multiple projects using each technique--all presented with detailed instructions. Also included is step-by-step direction from Jacquie Gering and Katie Pedersen on tools, materials, and quilting basics, as well as expert advice on color and design. New and seasoned quilting artists will love making stunning bed, wall hanging, pillowcase, and table accessory quilts with this must-have resource. Quilting Modern is a field guide for quilters who strive to break free from tradition and yearn to explore improvisational work. Quilters can make the 21 projects in the book, but will also come away with the new knowledge and skills to apply to their own unique designs. In Quilting Modern, quilters will find the support, structure, and encouragement they need to explore their own creativity and artistic vision.",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9781620331538"
-                    },
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "1620331535"
-                    }
-                ],
-                "readingModes": {
-                    "text": true,
-                    "image": false
-                },
-                "pageCount": 176,
-                "printType": "BOOK",
-                "categories": [
-                    "Crafts & Hobbies"
-                ],
-                "averageRating": 5,
-                "ratingsCount": 1,
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": true,
-                "contentVersion": "1.4.3.0.preview.2",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=4CFjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=4CFjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com/books?id=4CFjDwAAQBAJ&pg=PP1&dq=quilting&hl=&cd=6&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ"
-            },
-            "saleInfo": {
-                "country": "US",
-                "saleability": "FOR_SALE",
-                "isEbook": true,
-                "listPrice": {
-                    "amount": 17.99,
-                    "currencyCode": "USD"
-                },
-                "retailPrice": {
-                    "amount": 17.99,
-                    "currencyCode": "USD"
-                },
-                "buyLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ&rdid=book-4CFjDwAAQBAJ&rdot=1&source=gbs_api",
-                "offers": [
-                    {
-                        "finskyOfferType": 1,
-                        "listPrice": {
-                            "amountInMicros": 17990000,
-                            "currencyCode": "USD"
-                        },
-                        "retailPrice": {
-                            "amountInMicros": 17990000,
-                            "currencyCode": "USD"
-                        },
-                        "giftable": true
-                    }
-                ]
-            },
-            "accessInfo": {
-                "country": "US",
-                "viewability": "PARTIAL",
-                "embeddable": true,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-                "epub": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com/books/download/Quilting_Modern-sample-epub.acsm?id=4CFjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=4CFjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "Quilters can make the 21 projects in the book, but will also come away with the new knowledge and skills to apply to their own unique designs."
-            }
-        },
-        {
-            "kind": "books#volume",
             "id": "BUfvDQAAQBAJ",
-            "etag": "4P64AblNQck",
+            "etag": "WeFdBSicjHM",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/BUfvDQAAQBAJ",
             "volumeInfo": {
                 "title": "No Scrap Left Behind",
@@ -1501,7 +1400,7 @@ Transfer-Encoding: chunked
                     "thumbnail": "http://books.google.com/books/content?id=BUfvDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "en",
-                "previewLink": "http://books.google.com/books?id=BUfvDQAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=7&source=gbs_api",
+                "previewLink": "http://books.google.com/books?id=BUfvDQAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=6&source=gbs_api",
                 "infoLink": "https://play.google.com/store/books/details?id=BUfvDQAAQBAJ&source=gbs_api",
                 "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BUfvDQAAQBAJ"
             },
@@ -1556,8 +1455,109 @@ Transfer-Encoding: chunked
         },
         {
             "kind": "books#volume",
+            "id": "4CFjDwAAQBAJ",
+            "etag": "xaXTUDUW/SQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/4CFjDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Quilting Modern",
+                "subtitle": "Techniques and Projects for Improvisational Quilts",
+                "authors": [
+                    "Jacquie Gering",
+                    "Katie Pedersen"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2013-08-14",
+                "description": "From two pioneers of today's modern quilting movement, Quilting Modern teaches quilters how to use improvisational techniques to make graphic, contemporary quilts and quilted projects. Explore seven core techniques and multiple projects using each technique--all presented with detailed instructions. Also included is step-by-step direction from Jacquie Gering and Katie Pedersen on tools, materials, and quilting basics, as well as expert advice on color and design. New and seasoned quilting artists will love making stunning bed, wall hanging, pillowcase, and table accessory quilts with this must-have resource. Quilting Modern is a field guide for quilters who strive to break free from tradition and yearn to explore improvisational work. Quilters can make the 21 projects in the book, but will also come away with the new knowledge and skills to apply to their own unique designs. In Quilting Modern, quilters will find the support, structure, and encouragement they need to explore their own creativity and artistic vision.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781620331538"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1620331535"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 176,
+                "printType": "BOOK",
+                "categories": [
+                    "Crafts & Hobbies"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.4.3.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=4CFjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=4CFjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=4CFjDwAAQBAJ&pg=PP1&dq=quilting&hl=&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 17.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 17.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ&rdid=book-4CFjDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 17990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 17990000,
+                            "currencyCode": "USD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Quilting_Modern-sample-epub.acsm?id=4CFjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=4CFjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Quilters can make the 21 projects in the book, but will also come away with the new knowledge and skills to apply to their own unique designs."
+            }
+        },
+        {
+            "kind": "books#volume",
             "id": "ouxXXwAACAAJ",
-            "etag": "wzaM1rUteTs",
+            "etag": "RzSh7kQvuQM",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/ouxXXwAACAAJ",
             "volumeInfo": {
                 "title": "Country Cottage Quilting",
@@ -1631,7 +1631,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "xMT4sw3KU-AC",
-            "etag": "hRqqIY0DoXo",
+            "etag": "fgq2tDE2qWk",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/xMT4sw3KU-AC",
             "volumeInfo": {
                 "title": "Hawaiian Quilting",
@@ -1708,7 +1708,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "_TYdDQAAQBAJ",
-            "etag": "pBKsKZkfsEo",
+            "etag": "9k+X8ExOfSw",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/_TYdDQAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Machine Quilt",
@@ -1824,7 +1824,7 @@ Vary: Origin
 Vary: X-Origin
 Vary: Referer
 Content-Encoding: gzip
-Date: Wed, 14 Jul 2021 03:42:45 GMT
+Date: Wed, 14 Jul 2021 03:53:26 GMT
 Server: ESF
 Cache-Control: private
 X-XSS-Protection: 0
@@ -1835,12 +1835,12 @@ Transfer-Encoding: chunked
 
 {
     "kind": "books#volumes",
-    "totalItems": 2368,
+    "totalItems": 2372,
     "items": [
         {
             "kind": "books#volume",
             "id": "KtrATnRZOlMC",
-            "etag": "xYjbX1yENRc",
+            "etag": "WPQIsqS86tA",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/KtrATnRZOlMC",
             "volumeInfo": {
                 "title": "Start Quilting",
@@ -1914,7 +1914,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "uz9nuQEACAAJ",
-            "etag": "+tgPYDUk3lc",
+            "etag": "PHhiMu9uWaA",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/uz9nuQEACAAJ",
             "volumeInfo": {
                 "title": "Fresh Quilting",
@@ -1990,7 +1990,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "LQ0oDwAAQBAJ",
-            "etag": "oXurAGchEqY",
+            "etag": "o8OEC30hu1g",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/LQ0oDwAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Make My First Quilt",
@@ -2089,7 +2089,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "s4UdKQEACAAJ",
-            "etag": "fJBI/G3wT0E",
+            "etag": "jGAKSXAGgj8",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/s4UdKQEACAAJ",
             "volumeInfo": {
                 "title": "Utility Quilting",
@@ -2163,7 +2163,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "D5hQDEPeuwoC",
-            "etag": "MVhvtQY0Tfg",
+            "etag": "Vf7bQYxWF4Y",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/D5hQDEPeuwoC",
             "volumeInfo": {
                 "title": "Beginner’s Guide to Free-Motion Quilting",
@@ -2262,7 +2262,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "BUfvDQAAQBAJ",
-            "etag": "KjOFcuyR2ic",
+            "etag": "JG32TY/b7vw",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/BUfvDQAAQBAJ",
             "volumeInfo": {
                 "title": "No Scrap Left Behind",
@@ -2360,7 +2360,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "4CFjDwAAQBAJ",
-            "etag": "/aPjUQLqmGw",
+            "etag": "FQtbGELG9kw",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/4CFjDwAAQBAJ",
             "volumeInfo": {
                 "title": "Quilting Modern",
@@ -2461,7 +2461,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "ouxXXwAACAAJ",
-            "etag": "YQG2W1PwqrU",
+            "etag": "tdjpHNX/084",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/ouxXXwAACAAJ",
             "volumeInfo": {
                 "title": "Country Cottage Quilting",
@@ -2535,7 +2535,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "xMT4sw3KU-AC",
-            "etag": "8NqFFRJyJb0",
+            "etag": "53RZNphMSII",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/xMT4sw3KU-AC",
             "volumeInfo": {
                 "title": "Hawaiian Quilting",
@@ -2612,7 +2612,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "_TYdDQAAQBAJ",
-            "etag": "h+IO+zH160I",
+            "etag": "N6w6QqNqp74",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/_TYdDQAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Machine Quilt",

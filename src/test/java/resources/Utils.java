@@ -2,9 +2,7 @@ package resources;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.PrintStream;
-import java.util.Properties;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.filter.log.RequestLoggingFilter;
@@ -21,27 +19,13 @@ public class Utils {
 		if(reqSpec == null) {
 			PrintStream log = new PrintStream(new FileOutputStream("logging.txt"));
 			
-			reqSpec = new RequestSpecBuilder().setBaseUri(getGlobalValue("baseURI")).addQueryParam("q",param)
+			reqSpec = new RequestSpecBuilder().setBaseUri("https://www.googleapis.com/books/v1").addQueryParam("q",param)
 					.addHeader("Content-Type","applicant/json")
 					.addFilter(RequestLoggingFilter.logRequestTo(log))
 					.addFilter(ResponseLoggingFilter.logResponseTo(log))
 					.setContentType(ContentType.JSON).build();
 		}
 		return reqSpec;
-	}
-	public static String getGlobalValue(String key) throws IOException {
-		Properties prop = new Properties();
-		prop.load(Utils.class.getResourceAsStream("global.properties"));
-		return prop.getProperty(key);
-		/*
-		 * System.out.println("Key " + key); Properties p = new Properties(); Thread
-		 * currentThread = Thread.currentThread(); ClassLoader contextClassLoader =
-		 * currentThread.getContextClassLoader(); InputStream propertiesStream =
-		 * contextClassLoader.getResourceAsStream("global.properties");
-		 * System.out.println("Properites Stream: " + propertiesStream.toString());
-		 * p.load(propertiesStream); System.out.println("Get Property " +
-		 * p.getProperty(key)); return p.getProperty(key);
-		 */
 	}
 	
 	public String getJsonPath(Response response, String key) {
