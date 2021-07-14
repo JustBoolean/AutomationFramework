@@ -29,6 +29,7 @@ public class Utils {
 		return reqSpec;
 	}
 	public static String getGlobalValue(String key) throws IOException {
+		System.out.println(key);
 		Properties p = new Properties();
 		p.load(Utils.class.getResourceAsStream("global.properties"));
 		return p.getProperty(key);

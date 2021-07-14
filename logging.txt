@@ -16,7 +16,7 @@ Vary: Origin
 Vary: X-Origin
 Vary: Referer
 Content-Encoding: gzip
-Date: Tue, 13 Jul 2021 20:14:43 GMT
+Date: Wed, 14 Jul 2021 03:18:54 GMT
 Server: ESF
 Cache-Control: private
 X-XSS-Protection: 0
@@ -27,12 +27,12 @@ Transfer-Encoding: chunked
 
 {
     "kind": "books#volumes",
-    "totalItems": 2443,
+    "totalItems": 2377,
     "items": [
         {
             "kind": "books#volume",
             "id": "KtrATnRZOlMC",
-            "etag": "UTcUXRiBlck",
+            "etag": "NVnRG4kZGBM",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/KtrATnRZOlMC",
             "volumeInfo": {
                 "title": "Start Quilting",
@@ -106,7 +106,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "uz9nuQEACAAJ",
-            "etag": "5543orFcEk8",
+            "etag": "X8VTaLz334c",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/uz9nuQEACAAJ",
             "volumeInfo": {
                 "title": "Fresh Quilting",
@@ -182,7 +182,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "LQ0oDwAAQBAJ",
-            "etag": "wBGpb6IAl9k",
+            "etag": "sgwW44Kp77E",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/LQ0oDwAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Make My First Quilt",
@@ -281,7 +281,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "s4UdKQEACAAJ",
-            "etag": "cSWUokBxmpo",
+            "etag": "Z0MeK4B6/G8",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/s4UdKQEACAAJ",
             "volumeInfo": {
                 "title": "Utility Quilting",
@@ -355,7 +355,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "D5hQDEPeuwoC",
-            "etag": "JqErnKxuNGY",
+            "etag": "EjtATTArBzE",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/D5hQDEPeuwoC",
             "volumeInfo": {
                 "title": "Beginner’s Guide to Free-Motion Quilting",
@@ -454,7 +454,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "BUfvDQAAQBAJ",
-            "etag": "SAOJoTEDuH8",
+            "etag": "C4zMV+1xYho",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/BUfvDQAAQBAJ",
             "volumeInfo": {
                 "title": "No Scrap Left Behind",
@@ -552,7 +552,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "4CFjDwAAQBAJ",
-            "etag": "vBsmFdTittc",
+            "etag": "qgXU58cslxg",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/4CFjDwAAQBAJ",
             "volumeInfo": {
                 "title": "Quilting Modern",
@@ -653,7 +653,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "ouxXXwAACAAJ",
-            "etag": "inI1cY02aPM",
+            "etag": "iUfaY6lZ4II",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/ouxXXwAACAAJ",
             "volumeInfo": {
                 "title": "Country Cottage Quilting",
@@ -727,7 +727,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "xMT4sw3KU-AC",
-            "etag": "7yRE8wJ4qRI",
+            "etag": "BnjwyJ3ygOc",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/xMT4sw3KU-AC",
             "volumeInfo": {
                 "title": "Hawaiian Quilting",
@@ -803,74 +803,75 @@ Transfer-Encoding: chunked
         },
         {
             "kind": "books#volume",
-            "id": "whnnBgAAQBAJ",
-            "etag": "nTj8wjPptIc",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/whnnBgAAQBAJ",
+            "id": "_TYdDQAAQBAJ",
+            "etag": "zoxptnG/mMk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_TYdDQAAQBAJ",
             "volumeInfo": {
-                "title": "Fabulously Fast Quilts",
+                "title": "Pat Sloan's Teach Me to Machine Quilt",
+                "subtitle": "Learn the Basics of Walking Foot and Free-Motion Quilting",
                 "authors": [
-                    "Amy Smart"
+                    "Pat Sloan"
                 ],
                 "publisher": "Martingale",
-                "publishedDate": "2014-04-08",
-                "description": "Popular blogger Amy Smart shares the tips and techniques she uses to quickly create complex-looking quilts. This go-to collection is ideal for beginners as well as experts who want to make a striking yet speedy quilt. Enjoy 12 versatile designs that have lots of movement and work well with many styles of fabric--a terrific value Choose from three quilts in each of four shortcut categories: strip piecing; quick corners; slick slicing; and stack, slice, and shuffle Find enticing patterns in various sizes; many use precuts and scraps",
+                "publishedDate": "2016-10-04",
+                "description": "Popular teacher, designer, and online radio host Pat Sloan teaches all you need to know to machine quilt successfully. In this third book of her beginner-friendly \"Teach Me\" series, Pat guides you step by step through walking-foot and free-motion quilting techniques. First-time quilters will be confidently quilting in no time, and experienced stitchers will discover the joy of finishing their quilts themselves. No-fear learning for quilting novices--Pat covers all the information you need to quilt from start to finish Pat guides you through simple and fun practice projects, including a strip-pieced table runner and an easy applique design Collect the entire skill-building library of Pat Sloan's popular \"Teach Me\" series of books",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_13",
-                        "identifier": "9781604683646"
+                        "identifier": "9781604688320"
                     },
                     {
                         "type": "ISBN_10",
-                        "identifier": "1604683643"
+                        "identifier": "1604688327"
                     }
                 ],
                 "readingModes": {
                     "text": true,
                     "image": true
                 },
-                "pageCount": 48,
+                "pageCount": 96,
                 "printType": "BOOK",
                 "categories": [
                     "Crafts & Hobbies"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": true,
-                "contentVersion": "1.2.2.0.preview.3",
+                "contentVersion": "0.1.1.0.preview.3",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=whnnBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=whnnBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=_TYdDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_TYdDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "en",
-                "previewLink": "http://books.google.com/books?id=whnnBgAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=10&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ"
+                "previewLink": "http://books.google.com/books?id=_TYdDQAAQBAJ&pg=PP1&dq=quilting&hl=&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ"
             },
             "saleInfo": {
                 "country": "US",
                 "saleability": "FOR_SALE",
                 "isEbook": true,
                 "listPrice": {
-                    "amount": 10.99,
+                    "amount": 16.99,
                     "currencyCode": "USD"
                 },
                 "retailPrice": {
-                    "amount": 10.99,
+                    "amount": 16.99,
                     "currencyCode": "USD"
                 },
-                "buyLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ&rdid=book-whnnBgAAQBAJ&rdot=1&source=gbs_api",
+                "buyLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ&rdid=book-_TYdDQAAQBAJ&rdot=1&source=gbs_api",
                 "offers": [
                     {
                         "finskyOfferType": 1,
                         "listPrice": {
-                            "amountInMicros": 10990000,
+                            "amountInMicros": 16990000,
                             "currencyCode": "USD"
                         },
                         "retailPrice": {
-                            "amountInMicros": 10990000,
+                            "amountInMicros": 16990000,
                             "currencyCode": "USD"
                         },
                         "giftable": true
@@ -885,18 +886,18 @@ Transfer-Encoding: chunked
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com/books/download/Fabulously_Fast_Quilts-sample-epub.acsm?id=whnnBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com/books/download/Pat_Sloan_s_Teach_Me_to_Machine_Quilt-sample-epub.acsm?id=_TYdDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
                 "pdf": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com/books/download/Fabulously_Fast_Quilts-sample-pdf.acsm?id=whnnBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com/books/download/Pat_Sloan_s_Teach_Me_to_Machine_Quilt-sample-pdf.acsm?id=_TYdDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=whnnBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=_TYdDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
                 "accessViewStatus": "SAMPLE",
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "Popular blogger Amy Smart shares the tips and techniques she uses to quickly create complex-looking quilts. This go-to collection is ideal for beginners as well as experts who want to make a striking yet speedy quilt."
+                "textSnippet": "In this third book of her beginner-friendly &quot;Teach Me&quot; series, Pat guides you step by step through walking-foot and free-motion quilting techniques."
             }
         }
     ]
@@ -919,7 +920,7 @@ Vary: Origin
 Vary: X-Origin
 Vary: Referer
 Content-Encoding: gzip
-Date: Tue, 13 Jul 2021 20:14:43 GMT
+Date: Wed, 14 Jul 2021 03:18:55 GMT
 Server: ESF
 Cache-Control: private
 X-XSS-Protection: 0
@@ -930,12 +931,12 @@ Transfer-Encoding: chunked
 
 {
     "kind": "books#volumes",
-    "totalItems": 2443,
+    "totalItems": 2377,
     "items": [
         {
             "kind": "books#volume",
             "id": "KtrATnRZOlMC",
-            "etag": "VrUATUTEZ4M",
+            "etag": "oSbyyLZqoMc",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/KtrATnRZOlMC",
             "volumeInfo": {
                 "title": "Start Quilting",
@@ -1009,7 +1010,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "uz9nuQEACAAJ",
-            "etag": "wfZVWM7XJ8I",
+            "etag": "bEiez2m/5xU",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/uz9nuQEACAAJ",
             "volumeInfo": {
                 "title": "Fresh Quilting",
@@ -1085,7 +1086,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "LQ0oDwAAQBAJ",
-            "etag": "qCcaLH2ZDBI",
+            "etag": "GaTGWOQbT78",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/LQ0oDwAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Make My First Quilt",
@@ -1184,7 +1185,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "s4UdKQEACAAJ",
-            "etag": "TTS0S/prkZw",
+            "etag": "xzgcscsXJuc",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/s4UdKQEACAAJ",
             "volumeInfo": {
                 "title": "Utility Quilting",
@@ -1258,7 +1259,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "D5hQDEPeuwoC",
-            "etag": "VS3znTN4Nls",
+            "etag": "S9L8t/Ho1Q0",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/D5hQDEPeuwoC",
             "volumeInfo": {
                 "title": "Beginner’s Guide to Free-Motion Quilting",
@@ -1357,7 +1358,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "BUfvDQAAQBAJ",
-            "etag": "31A3uOyn60I",
+            "etag": "ppApI8D1tMk",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/BUfvDQAAQBAJ",
             "volumeInfo": {
                 "title": "No Scrap Left Behind",
@@ -1455,7 +1456,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "4CFjDwAAQBAJ",
-            "etag": "GM9v2NCpjSk",
+            "etag": "6GSOpZc28kI",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/4CFjDwAAQBAJ",
             "volumeInfo": {
                 "title": "Quilting Modern",
@@ -1556,7 +1557,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "ouxXXwAACAAJ",
-            "etag": "gBZUhh6xBWE",
+            "etag": "DxjmSTVtd/Q",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/ouxXXwAACAAJ",
             "volumeInfo": {
                 "title": "Country Cottage Quilting",
@@ -1630,7 +1631,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "xMT4sw3KU-AC",
-            "etag": "P3xYDy8U3pc",
+            "etag": "8tJKjj7vegQ",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/xMT4sw3KU-AC",
             "volumeInfo": {
                 "title": "Hawaiian Quilting",
@@ -1706,74 +1707,75 @@ Transfer-Encoding: chunked
         },
         {
             "kind": "books#volume",
-            "id": "whnnBgAAQBAJ",
-            "etag": "NRwYFAoytX4",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/whnnBgAAQBAJ",
+            "id": "_TYdDQAAQBAJ",
+            "etag": "5Bn8zr0ztqs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_TYdDQAAQBAJ",
             "volumeInfo": {
-                "title": "Fabulously Fast Quilts",
+                "title": "Pat Sloan's Teach Me to Machine Quilt",
+                "subtitle": "Learn the Basics of Walking Foot and Free-Motion Quilting",
                 "authors": [
-                    "Amy Smart"
+                    "Pat Sloan"
                 ],
                 "publisher": "Martingale",
-                "publishedDate": "2014-04-08",
-                "description": "Popular blogger Amy Smart shares the tips and techniques she uses to quickly create complex-looking quilts. This go-to collection is ideal for beginners as well as experts who want to make a striking yet speedy quilt. Enjoy 12 versatile designs that have lots of movement and work well with many styles of fabric--a terrific value Choose from three quilts in each of four shortcut categories: strip piecing; quick corners; slick slicing; and stack, slice, and shuffle Find enticing patterns in various sizes; many use precuts and scraps",
+                "publishedDate": "2016-10-04",
+                "description": "Popular teacher, designer, and online radio host Pat Sloan teaches all you need to know to machine quilt successfully. In this third book of her beginner-friendly \"Teach Me\" series, Pat guides you step by step through walking-foot and free-motion quilting techniques. First-time quilters will be confidently quilting in no time, and experienced stitchers will discover the joy of finishing their quilts themselves. No-fear learning for quilting novices--Pat covers all the information you need to quilt from start to finish Pat guides you through simple and fun practice projects, including a strip-pieced table runner and an easy applique design Collect the entire skill-building library of Pat Sloan's popular \"Teach Me\" series of books",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_13",
-                        "identifier": "9781604683646"
+                        "identifier": "9781604688320"
                     },
                     {
                         "type": "ISBN_10",
-                        "identifier": "1604683643"
+                        "identifier": "1604688327"
                     }
                 ],
                 "readingModes": {
                     "text": true,
                     "image": true
                 },
-                "pageCount": 48,
+                "pageCount": 96,
                 "printType": "BOOK",
                 "categories": [
                     "Crafts & Hobbies"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": true,
-                "contentVersion": "1.2.2.0.preview.3",
+                "contentVersion": "0.1.1.0.preview.3",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=whnnBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=whnnBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=_TYdDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_TYdDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "en",
-                "previewLink": "http://books.google.com/books?id=whnnBgAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=10&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ"
+                "previewLink": "http://books.google.com/books?id=_TYdDQAAQBAJ&pg=PP1&dq=quilting&hl=&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ"
             },
             "saleInfo": {
                 "country": "US",
                 "saleability": "FOR_SALE",
                 "isEbook": true,
                 "listPrice": {
-                    "amount": 10.99,
+                    "amount": 16.99,
                     "currencyCode": "USD"
                 },
                 "retailPrice": {
-                    "amount": 10.99,
+                    "amount": 16.99,
                     "currencyCode": "USD"
                 },
-                "buyLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ&rdid=book-whnnBgAAQBAJ&rdot=1&source=gbs_api",
+                "buyLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ&rdid=book-_TYdDQAAQBAJ&rdot=1&source=gbs_api",
                 "offers": [
                     {
                         "finskyOfferType": 1,
                         "listPrice": {
-                            "amountInMicros": 10990000,
+                            "amountInMicros": 16990000,
                             "currencyCode": "USD"
                         },
                         "retailPrice": {
-                            "amountInMicros": 10990000,
+                            "amountInMicros": 16990000,
                             "currencyCode": "USD"
                         },
                         "giftable": true
@@ -1788,18 +1790,18 @@ Transfer-Encoding: chunked
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com/books/download/Fabulously_Fast_Quilts-sample-epub.acsm?id=whnnBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com/books/download/Pat_Sloan_s_Teach_Me_to_Machine_Quilt-sample-epub.acsm?id=_TYdDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
                 "pdf": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com/books/download/Fabulously_Fast_Quilts-sample-pdf.acsm?id=whnnBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com/books/download/Pat_Sloan_s_Teach_Me_to_Machine_Quilt-sample-pdf.acsm?id=_TYdDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=whnnBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=_TYdDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
                 "accessViewStatus": "SAMPLE",
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "Popular blogger Amy Smart shares the tips and techniques she uses to quickly create complex-looking quilts. This go-to collection is ideal for beginners as well as experts who want to make a striking yet speedy quilt."
+                "textSnippet": "In this third book of her beginner-friendly &quot;Teach Me&quot; series, Pat guides you step by step through walking-foot and free-motion quilting techniques."
             }
         }
     ]
@@ -1822,7 +1824,7 @@ Vary: Origin
 Vary: X-Origin
 Vary: Referer
 Content-Encoding: gzip
-Date: Tue, 13 Jul 2021 20:14:44 GMT
+Date: Wed, 14 Jul 2021 03:18:56 GMT
 Server: ESF
 Cache-Control: private
 X-XSS-Protection: 0
@@ -1833,12 +1835,12 @@ Transfer-Encoding: chunked
 
 {
     "kind": "books#volumes",
-    "totalItems": 2443,
+    "totalItems": 2377,
     "items": [
         {
             "kind": "books#volume",
             "id": "KtrATnRZOlMC",
-            "etag": "DJJw8x3P7jY",
+            "etag": "QvoyOzC5S7g",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/KtrATnRZOlMC",
             "volumeInfo": {
                 "title": "Start Quilting",
@@ -1912,7 +1914,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "uz9nuQEACAAJ",
-            "etag": "XIb6uHPrge4",
+            "etag": "L2/F1gPW22Y",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/uz9nuQEACAAJ",
             "volumeInfo": {
                 "title": "Fresh Quilting",
@@ -1988,7 +1990,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "LQ0oDwAAQBAJ",
-            "etag": "suPTG8aAKcY",
+            "etag": "tBZB2R2c8C4",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/LQ0oDwAAQBAJ",
             "volumeInfo": {
                 "title": "Pat Sloan's Teach Me to Make My First Quilt",
@@ -2087,7 +2089,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "s4UdKQEACAAJ",
-            "etag": "vXyNVUZNhS8",
+            "etag": "DyRqHqJSxrU",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/s4UdKQEACAAJ",
             "volumeInfo": {
                 "title": "Utility Quilting",
@@ -2161,7 +2163,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "D5hQDEPeuwoC",
-            "etag": "UvbMPriIGdk",
+            "etag": "5l1ZwW4h8I8",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/D5hQDEPeuwoC",
             "volumeInfo": {
                 "title": "Beginner’s Guide to Free-Motion Quilting",
@@ -2260,7 +2262,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "BUfvDQAAQBAJ",
-            "etag": "HKforEn0bJk",
+            "etag": "aGYPanSXF+A",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/BUfvDQAAQBAJ",
             "volumeInfo": {
                 "title": "No Scrap Left Behind",
@@ -2358,7 +2360,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "4CFjDwAAQBAJ",
-            "etag": "Q8Z7QRSWfZw",
+            "etag": "P7O69Ni9R1Q",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/4CFjDwAAQBAJ",
             "volumeInfo": {
                 "title": "Quilting Modern",
@@ -2459,7 +2461,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "ouxXXwAACAAJ",
-            "etag": "a29PDjMLrxs",
+            "etag": "8T3oDC+r0Tc",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/ouxXXwAACAAJ",
             "volumeInfo": {
                 "title": "Country Cottage Quilting",
@@ -2533,7 +2535,7 @@ Transfer-Encoding: chunked
         {
             "kind": "books#volume",
             "id": "xMT4sw3KU-AC",
-            "etag": "Jlk7d1Bjt5s",
+            "etag": "NSC73KsUyQE",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/xMT4sw3KU-AC",
             "volumeInfo": {
                 "title": "Hawaiian Quilting",
@@ -2609,74 +2611,75 @@ Transfer-Encoding: chunked
         },
         {
             "kind": "books#volume",
-            "id": "whnnBgAAQBAJ",
-            "etag": "V/UQx0+9+X4",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/whnnBgAAQBAJ",
+            "id": "_TYdDQAAQBAJ",
+            "etag": "WMcQYJi91Zc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_TYdDQAAQBAJ",
             "volumeInfo": {
-                "title": "Fabulously Fast Quilts",
+                "title": "Pat Sloan's Teach Me to Machine Quilt",
+                "subtitle": "Learn the Basics of Walking Foot and Free-Motion Quilting",
                 "authors": [
-                    "Amy Smart"
+                    "Pat Sloan"
                 ],
                 "publisher": "Martingale",
-                "publishedDate": "2014-04-08",
-                "description": "Popular blogger Amy Smart shares the tips and techniques she uses to quickly create complex-looking quilts. This go-to collection is ideal for beginners as well as experts who want to make a striking yet speedy quilt. Enjoy 12 versatile designs that have lots of movement and work well with many styles of fabric--a terrific value Choose from three quilts in each of four shortcut categories: strip piecing; quick corners; slick slicing; and stack, slice, and shuffle Find enticing patterns in various sizes; many use precuts and scraps",
+                "publishedDate": "2016-10-04",
+                "description": "Popular teacher, designer, and online radio host Pat Sloan teaches all you need to know to machine quilt successfully. In this third book of her beginner-friendly \"Teach Me\" series, Pat guides you step by step through walking-foot and free-motion quilting techniques. First-time quilters will be confidently quilting in no time, and experienced stitchers will discover the joy of finishing their quilts themselves. No-fear learning for quilting novices--Pat covers all the information you need to quilt from start to finish Pat guides you through simple and fun practice projects, including a strip-pieced table runner and an easy applique design Collect the entire skill-building library of Pat Sloan's popular \"Teach Me\" series of books",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_13",
-                        "identifier": "9781604683646"
+                        "identifier": "9781604688320"
                     },
                     {
                         "type": "ISBN_10",
-                        "identifier": "1604683643"
+                        "identifier": "1604688327"
                     }
                 ],
                 "readingModes": {
                     "text": true,
                     "image": true
                 },
-                "pageCount": 48,
+                "pageCount": 96,
                 "printType": "BOOK",
                 "categories": [
                     "Crafts & Hobbies"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": true,
-                "contentVersion": "1.2.2.0.preview.3",
+                "contentVersion": "0.1.1.0.preview.3",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=whnnBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=whnnBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=_TYdDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_TYdDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "en",
-                "previewLink": "http://books.google.com/books?id=whnnBgAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=10&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ"
+                "previewLink": "http://books.google.com/books?id=_TYdDQAAQBAJ&pg=PP1&dq=quilting&hl=&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ"
             },
             "saleInfo": {
                 "country": "US",
                 "saleability": "FOR_SALE",
                 "isEbook": true,
                 "listPrice": {
-                    "amount": 10.99,
+                    "amount": 16.99,
                     "currencyCode": "USD"
                 },
                 "retailPrice": {
-                    "amount": 10.99,
+                    "amount": 16.99,
                     "currencyCode": "USD"
                 },
-                "buyLink": "https://play.google.com/store/books/details?id=whnnBgAAQBAJ&rdid=book-whnnBgAAQBAJ&rdot=1&source=gbs_api",
+                "buyLink": "https://play.google.com/store/books/details?id=_TYdDQAAQBAJ&rdid=book-_TYdDQAAQBAJ&rdot=1&source=gbs_api",
                 "offers": [
                     {
                         "finskyOfferType": 1,
                         "listPrice": {
-                            "amountInMicros": 10990000,
+                            "amountInMicros": 16990000,
                             "currencyCode": "USD"
                         },
                         "retailPrice": {
-                            "amountInMicros": 10990000,
+                            "amountInMicros": 16990000,
                             "currencyCode": "USD"
                         },
                         "giftable": true
@@ -2691,18 +2694,18 @@ Transfer-Encoding: chunked
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com/books/download/Fabulously_Fast_Quilts-sample-epub.acsm?id=whnnBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com/books/download/Pat_Sloan_s_Teach_Me_to_Machine_Quilt-sample-epub.acsm?id=_TYdDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
                 "pdf": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com/books/download/Fabulously_Fast_Quilts-sample-pdf.acsm?id=whnnBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com/books/download/Pat_Sloan_s_Teach_Me_to_Machine_Quilt-sample-pdf.acsm?id=_TYdDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=whnnBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=_TYdDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
                 "accessViewStatus": "SAMPLE",
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "Popular blogger Amy Smart shares the tips and techniques she uses to quickly create complex-looking quilts. This go-to collection is ideal for beginners as well as experts who want to make a striking yet speedy quilt."
+                "textSnippet": "In this third book of her beginner-friendly &quot;Teach Me&quot; series, Pat guides you step by step through walking-foot and free-motion quilting techniques."
             }
         }
     ]
