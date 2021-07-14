@@ -6,6 +6,6 @@ Written in java with REST ASSURED library for API Testing as well as cucumber fo
 
 To run with only Cucumber JUnit tests run TestRunner.java.
 
-For a detailed html report with cucumber-reporting run using maven command "mvn verify test" in cmd prompt in directory.
+For a detailed html report with cucumber-reporting (found in target/cucumber-reports) run using maven command "mvn verify test" in cmd prompt in directory.
 
 Compatible with jenkins.
